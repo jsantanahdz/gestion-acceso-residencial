@@ -1,0 +1,45 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "accion",
+      "fecha",
+      "id_camara",
+      "imagenes",
+      "placa_detectada"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "objectId"
+      },
+      "accion": {
+        "bsonType": "string"
+      },
+      "fecha": {
+        "bsonType": "string"
+      },
+      "id_camara": {
+        "bsonType": "string"
+      },
+      "imagenes": {
+        "bsonType": "object",
+        "properties": {
+          "foto_panoramica": {
+            "bsonType": "string"
+          },
+          "foto_placa": {
+            "bsonType": "string"
+          }
+        },
+        "required": [
+          "foto_panoramica",
+          "foto_placa"
+        ]
+      },
+      "placa_detectada": {
+        "bsonType": "string"
+      }
+    }
+  }
+}
