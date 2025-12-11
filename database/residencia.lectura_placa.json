@@ -1,0 +1,715 @@
+[{
+  "_id": {
+    "$oid": "69386c778c79362df84a119f"
+  },
+  "fecha": "2025-01-01T06:00:00.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "AEI-1234",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "url_imagen_placa.jpg",
+    "foto_panoramica": "url_foto_panoramica.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "69386e748c79362df84a11ab"
+  },
+  "fecha": "2025-01-02T06:00:00.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "ANG-1234",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "url_imagen_placa.jpg",
+    "foto_panoramica": "url_foto_panoramica.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "69386e878c79362df84a11ac"
+  },
+  "fecha": "2025-01-03T06:00:00.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "HNG-1234",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "url_imagen_placa.jpg",
+    "foto_panoramica": "url_foto_panoramica.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "69386ea48c79362df84a11ad"
+  },
+  "fecha": "2025-01-03T06:00:00.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "AJE-1234",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "url_imagen_placa.jpg",
+    "foto_panoramica": "url_foto_panoramica.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6938e77d7ca76577af84eae0"
+  },
+  "fecha": "2025-01-03T06:00:00.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "AXE-1234",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "url_imagen_placa.jpg",
+    "foto_panoramica": "url_foto_panoramica.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6938e77d7ca76577af84ea32"
+  },
+  "fecha": "2025-01-03T06:20:55.000Z",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "WQE-8832",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/WQE8832.jpg",
+    "foto_panoramica": "img/pan_WQE8832.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea02"
+  },
+  "fecha": "2025-01-03T08:18:05.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "XYZ-9876",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_XYZ9876.jpg",
+    "foto_panoramica": "img/pan_XYZ9876.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea03"
+  },
+  "fecha": "2025-01-03T08:22:10.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "JPL-4532",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_JPL4532.jpg",
+    "foto_panoramica": "img/pan_JPL4532.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea04"
+  },
+  "fecha": "2025-01-03T08:30:45.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "MNO-1122",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_MNO1122.jpg",
+    "foto_panoramica": "img/pan_MNO1122.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea05"
+  },
+  "fecha": "2025-01-03T09:05:12.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "QWE-8899",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_QWE8899.jpg",
+    "foto_panoramica": "img/pan_QWE8899.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea06"
+  },
+  "fecha": "2025-01-03T09:10:33.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "ASD-5544",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_ASD5544.jpg",
+    "foto_panoramica": "img/pan_ASD5544.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea07"
+  },
+  "fecha": "2025-01-03T09:15:00.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "ZXC-3321",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_ZXC3321.jpg",
+    "foto_panoramica": "img/pan_ZXC3321.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea08"
+  },
+  "fecha": "2025-01-03T09:45:55.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "RTY-7654",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_RTY7654.jpg",
+    "foto_panoramica": "img/pan_RTY7654.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea09"
+  },
+  "fecha": "2025-01-03T10:00:01.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "FGH-9090",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_FGH9090.jpg",
+    "foto_panoramica": "img/pan_FGH9090.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea10"
+  },
+  "fecha": "2025-01-03T10:12:18.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "VBN-1212",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_VBN1212.jpg",
+    "foto_panoramica": "img/pan_VBN1212.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea11"
+  },
+  "fecha": "2025-01-03T10:30:25.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "UIO-6789",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_UIO6789.jpg",
+    "foto_panoramica": "img/pan_UIO6789.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea12"
+  },
+  "fecha": "2025-01-03T10:45:40.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "JKL-3456",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_JKL3456.jpg",
+    "foto_panoramica": "img/pan_JKL3456.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea13"
+  },
+  "fecha": "2025-01-03T11:05:05.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "POI-0987",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_POI0987.jpg",
+    "foto_panoramica": "img/pan_POI0987.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea14"
+  },
+  "fecha": "2025-01-03T11:20:15.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "YUI-5678",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_YUI5678.jpg",
+    "foto_panoramica": "img/pan_YUI5678.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea15"
+  },
+  "fecha": "2025-01-03T11:35:50.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "HJK-2345",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_HJK2345.jpg",
+    "foto_panoramica": "img/pan_HJK2345.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea16"
+  },
+  "fecha": "2025-01-03T12:00:00.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "BNM-8765",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_BNM8765.jpg",
+    "foto_panoramica": "img/pan_BNM8765.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea17"
+  },
+  "fecha": "2025-01-03T12:15:22.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "WER-4321",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_WER4321.jpg",
+    "foto_panoramica": "img/pan_WER4321.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea18"
+  },
+  "fecha": "2025-01-03T12:30:10.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "SDF-6543",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_SDF6543.jpg",
+    "foto_panoramica": "img/pan_SDF6543.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea19"
+  },
+  "fecha": "2025-01-03T13:00:45.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "XCV-9870",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_XCV9870.jpg",
+    "foto_panoramica": "img/pan_XCV9870.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea20"
+  },
+  "fecha": "2025-01-03T13:15:30.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "TGB-7412",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_TGB7412.jpg",
+    "foto_panoramica": "img/pan_TGB7412.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea21"
+  },
+  "fecha": "2025-01-03T13:40:12.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "RFV-8520",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_RFV8520.jpg",
+    "foto_panoramica": "img/pan_RFV8520.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea22"
+  },
+  "fecha": "2025-01-03T14:05:55.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "UJM-9630",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_UJM9630.jpg",
+    "foto_panoramica": "img/pan_UJM9630.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea23"
+  },
+  "fecha": "2025-01-03T14:25:20.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "IKN-1590",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_IKN1590.jpg",
+    "foto_panoramica": "img/pan_IKN1590.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea24"
+  },
+  "fecha": "2025-01-03T14:50:35.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "OLP-3570",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_OLP3570.jpg",
+    "foto_panoramica": "img/pan_OLP3570.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea25"
+  },
+  "fecha": "2025-01-03T15:10:10.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "QAZ-1239",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_QAZ1239.jpg",
+    "foto_panoramica": "img/pan_QAZ1239.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea26"
+  },
+  "fecha": "2025-01-03T15:30:44.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "WSX-4568",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_WSX4568.jpg",
+    "foto_panoramica": "img/pan_WSX4568.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea27"
+  },
+  "fecha": "2025-01-03T16:00:22.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "EDC-7891",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_EDC7891.jpg",
+    "foto_panoramica": "img/pan_EDC7891.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea28"
+  },
+  "fecha": "2025-01-03T16:25:50.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "RFV-3692",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_RFV3692.jpg",
+    "foto_panoramica": "img/pan_RFV3692.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea29"
+  },
+  "fecha": "2025-01-03T16:45:15.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "TGB-2583",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_TGB2583.jpg",
+    "foto_panoramica": "img/pan_TGB2583.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea30"
+  },
+  "fecha": "2025-01-03T17:10:05.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "YHN-1470",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_YHN1470.jpg",
+    "foto_panoramica": "img/pan_YHN1470.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea31"
+  },
+  "fecha": "2025-01-03T17:35:30.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "UJM-2589",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_UJM2589.jpg",
+    "foto_panoramica": "img/pan_UJM2589.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea32"
+  },
+  "fecha": "2025-01-03T18:00:45.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "IKO-3698",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_IKO3698.jpg",
+    "foto_panoramica": "img/pan_IKO3698.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea33"
+  },
+  "fecha": "2025-01-03T18:20:10.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "PLM-7410",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_PLM7410.jpg",
+    "foto_panoramica": "img/pan_PLM7410.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea34"
+  },
+  "fecha": "2025-01-03T18:45:55.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "OKN-8521",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_OKN8521.jpg",
+    "foto_panoramica": "img/pan_OKN8521.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea35"
+  },
+  "fecha": "2025-01-03T19:05:22.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "IJH-9632",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_IJH9632.jpg",
+    "foto_panoramica": "img/pan_IJH9632.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea36"
+  },
+  "fecha": "2025-01-03T19:30:15.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "UHG-1478",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_UHG1478.jpg",
+    "foto_panoramica": "img/pan_UHG1478.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea37"
+  },
+  "fecha": "2025-01-03T20:00:00.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "YGF-2580",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_YGF2580.jpg",
+    "foto_panoramica": "img/pan_YGF2580.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea38"
+  },
+  "fecha": "2025-01-03T20:25:40.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "TFD-3691",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_TFD3691.jpg",
+    "foto_panoramica": "img/pan_TFD3691.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea39"
+  },
+  "fecha": "2025-01-03T20:50:12.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "RDS-7419",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_RDS7419.jpg",
+    "foto_panoramica": "img/pan_RDS7419.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea40"
+  },
+  "fecha": "2025-01-03T21:15:33.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "ESA-8523",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_ESA8523.jpg",
+    "foto_panoramica": "img/pan_ESA8523.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea41"
+  },
+  "fecha": "2025-01-03T21:40:50.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "WAQ-9634",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_WAQ9634.jpg",
+    "foto_panoramica": "img/pan_WAQ9634.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea42"
+  },
+  "fecha": "2025-01-03T22:05:10.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "QSW-1597",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_QSW1597.jpg",
+    "foto_panoramica": "img/pan_QSW1597.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea43"
+  },
+  "fecha": "2025-01-03T22:30:25.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "ADE-3578",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_ADE3578.jpg",
+    "foto_panoramica": "img/pan_ADE3578.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea44"
+  },
+  "fecha": "2025-01-03T22:55:00.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "ZXR-7531",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_ZXR7531.jpg",
+    "foto_panoramica": "img/pan_ZXR7531.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea45"
+  },
+  "fecha": "2025-01-03T23:10:44.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "CVT-9513",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_CVT9513.jpg",
+    "foto_panoramica": "img/pan_CVT9513.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea46"
+  },
+  "fecha": "2025-01-03T23:25:20.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "BYG-8526",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_BYG8526.jpg",
+    "foto_panoramica": "img/pan_BYG8526.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea47"
+  },
+  "fecha": "2025-01-03T23:40:15.000+00:00",
+  "id_camara": "cam_entrada01",
+  "placa_detectada": "NUH-4569",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_NUH4569.jpg",
+    "foto_panoramica": "img/pan_NUH4569.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea48"
+  },
+  "fecha": "2025-01-03T23:50:10.000+00:00",
+  "id_camara": "cam_sotano_01",
+  "placa_detectada": "MIJ-1237",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_MIJ1237.jpg",
+    "foto_panoramica": "img/pan_MIJ1237.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea49"
+  },
+  "fecha": "2025-01-03T23:55:05.000+00:00",
+  "id_camara": "cam_entrada02",
+  "placa_detectada": "KOL-7894",
+  "accion": "acceso_rechazado",
+  "imagenes": {
+    "foto_placa": "img/placa_KOL7894.jpg",
+    "foto_panoramica": "img/pan_KOL7894.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596e77d7ca76577af84ea50"
+  },
+  "fecha": "2025-01-03T23:59:59.000+00:00",
+  "id_camara": "cam_salida01",
+  "placa_detectada": "PZA-9988",
+  "accion": "acceso_autorizado",
+  "imagenes": {
+    "foto_placa": "img/placa_PZA9988.jpg",
+    "foto_panoramica": "img/pan_PZA9988.jpg"
+  }
+}]
